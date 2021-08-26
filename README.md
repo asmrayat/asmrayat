@@ -1,6 +1,6 @@
 <a  href="#"><img  width="100%" height="auto" src="https://user-images.githubusercontent.com/86654494/131038148-ac324a79-436c-42ac-9e81-3c9246cbf9ca.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rayat</h1>
+<h1 align="center">Hi<br>I'm Rayat</h1>
 <h3 align="center">Love to Learn.</h3>
 
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/asmrayat](https://github.com/asmrayat)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/asmrayat?tab=repositories)
 
-- 📫 How to reach me **asmrayat@gmail.com**
+- 📫 My Email **asmrayat@gmail.com**
 
 
 ## 🚀 Languages and Tools:
