@@ -1,4 +1,4 @@
-<a  href="#"><img  width="100%" height="auto" src="https://user-images.githubusercontent.com/86654494/131038148-ac324a79-436c-42ac-9e81-3c9246cbf9ca.gif" height="175px"/></a>
+<a  href="#"><img  width="100%" height="auto" src="https://qph.fs.quoracdn.net/main-qimg-bfc67a7da17b8a3f224b0ba748c71364" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><br>I'm Rayat</h1>
 <h3 align="center">Love to Learn.</h3>
