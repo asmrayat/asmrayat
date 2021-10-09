@@ -5,7 +5,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-## 🙋‍♂️ About Me 
+##  <img src='https://media.giphy.com/media/4JXQArc0SQlh5diE9B/giphy.gif' width='32px'> About Me 
 
 - 🌱 I’m currently learning **React**
 
