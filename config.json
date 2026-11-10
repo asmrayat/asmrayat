@@ -1,0 +1,46 @@
+{
+  "username": "asmrayat",
+  "name": "Rayat",
+  "greeting": "Hi, I'm",
+  "kicker": "FULL-STACK DEVELOPER / ASMLAB",
+  "tagline": [
+    "I build small desktop apps and websites for clients.",
+    "React, Node.js, WordPress and a lot of late commits."
+  ],
+  "monogram": "R",
+  "tiles": [
+    {
+      "file": "build",
+      "label": "BUILD",
+      "value": "public_repos",
+      "caption": "public repos",
+      "sub": "Apps, tools and experiments",
+      "color": "#3DDC97",
+      "link": "https://github.com/asmrayat?tab=repositories"
+    },
+    {
+      "file": "ship",
+      "label": "SHIP",
+      "value": "total_contributions",
+      "caption": "contributions this year",
+      "sub": "Client work at pixmint.agency",
+      "color": "#FFB454",
+      "link": "https://pixmint.agency"
+    },
+    {
+      "file": "connect",
+      "label": "CONNECT",
+      "value": "followers",
+      "caption": "followers",
+      "sub": "Say hello on LinkedIn",
+      "color": "#9B8CFF",
+      "link": "https://www.linkedin.com/in/asmrayat/"
+    }
+  ],
+  "featured_repos": [
+    "Task-pop",
+    "panda-commerce",
+    "LU_Covid-Tracker",
+    "Smart-Receptionist-System-CSE-Algorithm-Project-"
+  ]
+}
