@@ -16,13 +16,3 @@
   <a href="https://pixmint.agency"><img src="./cards/ship.svg" width="32.5%" alt="SHIP" /></a>
   <a href="https://www.linkedin.com/in/asmrayat/"><img src="./cards/connect.svg" width="32.5%" alt="CONNECT" /></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/asmrayat/Task-pop"><img src="./cards/repo-1.svg" width="48.5%" alt="Task-pop" /></a>
-  <a href="https://github.com/asmrayat/panda-commerce"><img src="./cards/repo-2.svg" width="48.5%" alt="panda-commerce" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/asmrayat/LU_Covid-Tracker"><img src="./cards/repo-3.svg" width="48.5%" alt="LU_Covid-Tracker" /></a>
-  <a href="https://github.com/asmrayat/Smart-Receptionist-System-CSE-Algorithm-Project-"><img src="./cards/repo-4.svg" width="48.5%" alt="Smart-Receptionist-System-CSE-Algorithm-Project-" /></a>
-</p>
