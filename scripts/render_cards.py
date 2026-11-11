@@ -491,7 +491,9 @@ def write_readme(repos):
 <p align="center">
 {tiles}
 </p>
-
+"""
+    if repos:
+        readme += f"""
 <p align="center">
 {repo_cards}
 </p>
@@ -523,9 +525,7 @@ def main():
     for i, tile in enumerate(CONFIG["tiles"][:3]):
         value = tile["value"]
         render_tile(tile, values[value] if isinstance(value, str) else int(value), 2.0 + i * 0.15)
-    repos = profile["repos"][:4]
-    for i, repo in enumerate(repos):
-        render_repo(repo, i)
+    repos = []  # featured repo cards removed from the profile
     write_readme(repos)
 
 
